@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">dataCollect</string>
+    <string-array name="country_names">
+
+        <item>Afghanistan</item>
+        <item>Armenia</item>
+        <item>Azerbaijan</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>China</item>
+        <item>Croatia</item>
+        <item>Denmark</item>
+        <item>Finland</item>
+        <item>Greenland</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Nepal</item>
+        <item>London</item>
+        <item>Malaysia</item>
+
+    </string-array>
+    <string name="text2">This is second activity</string>
+    <string-array name="country_details">
+
+        <item>Afghanistan,[c] officially the Islamic Emirate of Afghanistan,[d] is a landlocked country
+            located at the crossroads of Central Asia and South Asia. Referred to as the Heart of Asia,[22]
+            it is bordered by Pakistan to the east and south,[e] Iran to the west, Turkmenistan to the northwest,
+            Uzbekistan to the north, Tajikistan to the northeast, and China to the northeast and east. Occupying
+            652,864 square kilometers (252,072 sq mi) of land, the country is predominantly mountainous with plains
+            in the north and the southwest, which are separated by the Hindu Kush mountain range. As of 2021, its
+            population is 40.2 million[6] (officially estimated to be 32.9 million[23]), composed mostly of ethnic
+            Pashtuns, Tajiks, Hazaras, and Uzbeks. Kabul is the country\'s largest city and serves as its capital.
+            Human habitation in Afghanistan dates back to the Middle Paleolithic era, and the country\'s strategic
+            location along the historic Silk Road has led it to being described, picturesquely, as the ‘roundabout
+            of the ancient world’.[24] Popularly referred to as the graveyard of empires,[25] the land has historically
+            been home to various peoples and has witnessed numerous military campaigns, including those by the Persians,
+            Alexander the Great, the Maurya Empire, Arab Muslims, the Mongols, the British, the Soviet Union, and most
+            recently by an American-led coalition. Afghanistan also served as the source from which the Greco-Bactrians
+            and the Mughals, among others, rose to form major empires.[26] The various conquests and periods in both the
+            Iranian and Indian cultural spheres[27][28] made the area a center for Zoroastrianism, Buddhism, Hinduism,
+            and later Islam throughout history.[29]
+            The modern state of Afghanistan began with the Durrani dynasty in the 18th century,with the Durrani Afghan
+            Empire being formed by Ahmad Shah Durrani. The Durrani Empire led conquests in which, at its peak, encompassed
+            land that spanned from eastern Iran to northern India.[30][31] Following its decline and the death of Ahmad
+            Shah Durrani, and Timur Shah, it was divided into multiple smaller independent kingdoms, including but not
+            limited to: Herat, Kandahar and Kabul. Afghanistan would be reunited in the 19th century after 70 years of
+            civil war from 1793-1863, with wars of unification led by Dost Mohammad Khan, where he conquered the independent
+            principalities in Afghanistan. Dost Mohammad died in 1863, weeks after his last campaign to unite Afghanistan,
+            and as a result, threw Afghanistan back into civil war with his successors. During this time, Afghanistan became
+            a buffer state in the Great Game between the British Empire (in British-ruled India) and the Russian Empire.
+            From India, the British attempted to subjugate Afghanistan but were repelled in the First Anglo-Afghan War.
+            However, the Second Anglo-Afghan War saw a British victory and the successful establishment of British political.
+        </item>
+        <item>Armenia is a nation, and former Soviet republic, in the mountainous Caucasus region between Asia and Europe</item>
+        <item>Azerbaijan, the nation and former Soviet republic, is bounded by the Caspian Sea and Caucasus Mountains, which span Asia and Europe.</item>
+        <item>Bahrain, officially the Kingdom of Bahrain, is an island country in Western Asia.</item>
+        <item>Bangladesh, to the east of India on the Bay of Bengal, is a South Asian country marked by lush greenery and many waterways.</item>
+        <item>Bhutan officially the Kingdom of Bhutan, is a landlocked country in South Asia.</item>
+        <item>Bolivia is a country in central South America, with a varied terrain spanning Andes Mountains, the Atacama Desert and Amazon Basin rainforest</item>
+        <item>China, officially the Peoples Republic of China, is a country in East Asia.</item>
+        <item>Croatia, officially the Republic of Croatia, is a country at the crossroads of Central and Southeast Europe.</item>
+        <item>Denmark is a Scandinavian country comprising the Jutland Peninsula and numerous islands</item>
+        <item>Finland is a Northern European nation bordering Sweden, Norway and Russia.</item>
+        <item>Greenland is an island country in North America that is part of the Kingdom of Denmark.</item>
+        <item>India, officially the Republic of India, is a country in South Asia.</item>
+        <item>Pakistan, officially the Islamic Republic of Pakistan (Urdu: اِسلامی جمہوریہ پاکِستان) is a country in South Asia</item>
+        <item>Nepal is a multi-ethnic, multi-lingual, multi-religious and multi-cultural state, with Nepali as the official language</item>
+        <item>London, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times</item>
+        <item>Malaysia is a Southeast Asian country occupying parts of the Malay Peninsula and the island of Borneo.</item>
+
+
+    </string-array>
+</resources>
